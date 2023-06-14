@@ -1,0 +1,3 @@
+C:/Users/HoaxTheSecond_/Documents/Github Repos/HalogenGameEngine/cmake-build-debug/CMakeFiles/HalogenGameEngine.dir
+C:/Users/HoaxTheSecond_/Documents/Github Repos/HalogenGameEngine/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/HoaxTheSecond_/Documents/Github Repos/HalogenGameEngine/cmake-build-debug/CMakeFiles/rebuild_cache.dir
