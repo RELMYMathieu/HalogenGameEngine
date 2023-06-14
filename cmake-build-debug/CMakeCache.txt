@@ -329,6 +329,12 @@ HalogenGameEngine_IS_TOP_LEVEL:STATIC=ON
 //Value Computed by CMake
 HalogenGameEngine_SOURCE_DIR:STATIC=C:/Users/HoaxTheSecond_/Documents/Github Repos/HalogenGameEngine
 
+//OpenGL library for win32
+OPENGL_gl_LIBRARY:STRING=opengl32
+
+//GLU library for win32
+OPENGL_glu_LIBRARY:STRING=glu32
+
 
 ########################
 # INTERNAL cache entries
@@ -522,6 +528,8 @@ CMAKE_STRIP-ADVANCED:INTERNAL=1
 CMAKE_VERBOSE_MAKEFILE-ADVANCED:INTERNAL=1
 //Have include dinput.h
 DINPUT_H_FOUND:INTERNAL=1
+//Details about finding OpenGL
+FIND_PACKAGE_MESSAGE_DETAILS_OpenGL:INTERNAL=[opengl32][c ][v()]
 //Details about finding Threads
 FIND_PACKAGE_MESSAGE_DETAILS_Threads:INTERNAL=[TRUE][v()]
 //Build the GLFW documentation
@@ -532,6 +540,10 @@ GLFW_BUILD_EXAMPLES:INTERNAL=OFF
 GLFW_BUILD_TESTS:INTERNAL=OFF
 //Generate installation target
 GLFW_INSTALL:INTERNAL=OFF
+//ADVANCED property for variable: OPENGL_gl_LIBRARY
+OPENGL_gl_LIBRARY-ADVANCED:INTERNAL=1
+//ADVANCED property for variable: OPENGL_glu_LIBRARY
+OPENGL_glu_LIBRARY-ADVANCED:INTERNAL=1
 //Have include xinput.h
 XINPUT_H_FOUND:INTERNAL=1
 //linker supports push/pop state

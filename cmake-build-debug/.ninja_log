@@ -1,0 +1,22 @@
+# ninja log v5
+4	325	7084729405029919	CMakeFiles/HalogenGameEngine.dir/main.cpp.obj	fb351bdd9837a843
+23	1519	7084727770241974	extern/glfw/src/CMakeFiles/glfw.dir/vulkan.c.obj	29a83fa998d0aff9
+12	1528	7084727770461902	extern/glfw/src/CMakeFiles/glfw.dir/context.c.obj	be73ebd09f6845ad
+17	1535	7084727770222003	extern/glfw/src/CMakeFiles/glfw.dir/init.c.obj	a02c66c7e4bbff7a
+46	1544	7084727770451928	extern/glfw/src/CMakeFiles/glfw.dir/win32_init.c.obj	6f0d558ae6c9f708
+31	1551	7084727770807125	extern/glfw/src/CMakeFiles/glfw.dir/monitor.c.obj	3caa441977a35711
+63	1573	7084727770982056	extern/glfw/src/CMakeFiles/glfw.dir/win32_joystick.c.obj	8b83a0d0c3aa2a39
+56	1574	7084727770942162	extern/glfw/src/CMakeFiles/glfw.dir/win32_monitor.c.obj	63e79b303d58cd5f
+39	1622	7084727771532277	extern/glfw/src/CMakeFiles/glfw.dir/window.c.obj	5871b8abdc315df3
+7	1656	7084727771872214	extern/glfw/src/CMakeFiles/glfw.dir/input.c.obj	9842ead9ab63d547
+728	2059	7084727775946656	extern/glfw/src/CMakeFiles/glfw.dir/win32_time.c.obj	9a21f832c731634f
+1521	2637	7084727781720388	extern/glfw/src/CMakeFiles/glfw.dir/win32_thread.c.obj	9883c0ff0ce4670d
+1552	2656	7084727781905386	extern/glfw/src/CMakeFiles/glfw.dir/osmesa_context.c.obj	510ebedc675e9523
+1536	2676	7084727782127238	extern/glfw/src/CMakeFiles/glfw.dir/wgl_context.c.obj	34567c1e5f23931c
+1544	2686	7084727782217164	extern/glfw/src/CMakeFiles/glfw.dir/egl_context.c.obj	77621c5edb0db58c
+1529	2775	7084727783101302	extern/glfw/src/CMakeFiles/glfw.dir/win32_window.c.obj	a0e46bd98b0a9361
+2775	2899	7084727784274265	extern/glfw/src/libglfw3.a	1eb65df1fb04268
+2899	3064	7084727785760366	HalogenGameEngine.exe	fcb68b8edf838006
+3	159	7084731083149008	HalogenGameEngine.exe	78f7cde80a92842e
+4	318	7084731854978164	CMakeFiles/HalogenGameEngine.dir/main.cpp.obj	fb351bdd9837a843
+318	467	7084731856380268	HalogenGameEngine.exe	78f7cde80a92842e
