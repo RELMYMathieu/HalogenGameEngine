@@ -14,5 +14,5 @@ include_directories(${CMAKE_SOURCE_DIR}/extern/glfw/include)
 
 add_executable(HalogenGameEngine main.cpp)
 
-# Link onto GLFW
+# Link against GLFW
 target_link_libraries(HalogenGameEngine glfw)

@@ -1,9 +1,0 @@
-C:/Users/HoaxTheSecond_/Documents/Github Repos/HalogenGameEngine/cmake-build-debug/CMakeFiles/HalogenGameEngine.dir
-C:/Users/HoaxTheSecond_/Documents/Github Repos/HalogenGameEngine/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/HoaxTheSecond_/Documents/Github Repos/HalogenGameEngine/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-C:/Users/HoaxTheSecond_/Documents/Github Repos/HalogenGameEngine/cmake-build-debug/extern/GLFW/CMakeFiles/edit_cache.dir
-C:/Users/HoaxTheSecond_/Documents/Github Repos/HalogenGameEngine/cmake-build-debug/extern/GLFW/CMakeFiles/rebuild_cache.dir
-C:/Users/HoaxTheSecond_/Documents/Github Repos/HalogenGameEngine/cmake-build-debug/extern/GLFW/src/CMakeFiles/update_mappings.dir
-C:/Users/HoaxTheSecond_/Documents/Github Repos/HalogenGameEngine/cmake-build-debug/extern/GLFW/src/CMakeFiles/glfw.dir
-C:/Users/HoaxTheSecond_/Documents/Github Repos/HalogenGameEngine/cmake-build-debug/extern/GLFW/src/CMakeFiles/edit_cache.dir
-C:/Users/HoaxTheSecond_/Documents/Github Repos/HalogenGameEngine/cmake-build-debug/extern/GLFW/src/CMakeFiles/rebuild_cache.dir
