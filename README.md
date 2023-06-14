@@ -25,7 +25,7 @@ As a hobby project, Halogen Game Engine is very open to contributions! Whether y
 
 ## Disclaimer
 
-Please note that this engine is developed primarily as a learning tool by a hobbyist developer. While it aims to provide a robust set of features, it might not be suitable for large scale, professional game development (yet!).
+Please note that this engine is developed primarily as a learning tool by a hobbyist developer. While it aims to provide a robust set of features, it will not be suitable for large scale, professional game development (yet?).
 
 ## Contact
 
