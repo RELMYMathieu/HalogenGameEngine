@@ -8,7 +8,7 @@ Halogen Game Engine is a cross-platform engine for Windows (support for other pl
 
 The engine is in its initial development phase, and many features are still under construction. The roadmap includes features like:
 
-- [x] Open a window?!.
+- [X] Open a window?!.
 - [ ] A robust rendering pipeline using modern OpenGL techniques.
 - [ ] Input handling using GLFW.
 - [ ] Integration of ImGui for engine's GUI.
