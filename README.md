@@ -31,9 +31,13 @@ Please note that this engine is developed primarily as a learning tool by a hobb
 
 Feel free to get in touch if you have any questions, suggestions, or feedback. 
 
-[Relmy Mathieu]
-[ninjacowzx@gmail.com]
+Email : ninjacowzx@gmail.com
+Discord : houahoua
 
 ## License
 
-[I haven't decided yet, again, this is just a hobbyist project.]
+I haven't decided yet, again, this is just a hobbyist project.
+
+If you reach this part of the Readme, thanks for reading me !
+
+  -Relmy Mathieu
