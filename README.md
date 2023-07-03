@@ -1,16 +1,16 @@
 # Halogen Game Engine 
 
-The Halogen Game Engine is a personal hobby project aimed at building a simple, robust game engine using C++, OpenGL, GLFW, and ImGui. This engine is designed with simplicity in mind, with a focus on providing a foundation for game development learning and exploration.
+The Halogen Game Engine is a personal hobby project aimed at building a simple, robust game engine using C++ and running on DirectX? This engine is designed with simplicity in mind, with a focus on providing a foundation for game creation.
 
 ## Project Description
 
-Halogen Game Engine is a cross-platform engine for Windows (support for other platforms might be considered in the future). The engine uses modern OpenGL for rendering and GLFW for window handling and input. Additionally, it uses ImGui to provide a customizable, developer-friendly GUI.
+Halogen Game Engine is an engine designed for Windows (support for other platforms might be considered in the future). The engine uses DX11 for rendering, window handling and input. Additionally, it uses ImGui to provide a customizable, developer-friendly GUI.
 
 The engine is in its initial development phase, and many features are still under construction. The roadmap includes features like:
 
 - [X] Open a window?!.
 - [ ] A robust rendering pipeline using modern OpenGL techniques.
-- [ ] Input handling using GLFW.
+- [ ] Input handling using DX.
 - [ ] Integration of ImGui for engine's GUI.
 - [ ] 3D Mathematics for transformations and lighting.
 - [ ] Model loading using Assimp (or similar).
